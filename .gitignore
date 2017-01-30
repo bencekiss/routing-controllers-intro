@@ -20,4 +20,6 @@
 *.swp
 *.swn
 *.swo
+
+# for Mac users
 .DB_Store
